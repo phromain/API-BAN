@@ -1,0 +1,14 @@
+body {
+    background-image: url("../img/post-letter.jpg");
+}
+
+
+.forme {
+    background-color: black;
+    opacity: 75%;
+    color: white;
+}
+
+.ui-autocomplete {
+    list-style-type: none;
+}    
